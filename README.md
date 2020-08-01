@@ -1,6 +1,6 @@
 Matlab codes for the paper  Top-k Feature Selection Framework Using Robust 0-1 Integer Programming
 
-Decsription: This code is partially  modified from Esan's SSC code. % Copyright @ Ehsan Elhamifar, 2012. Parially modied from chun-guang li's code for <Structured Sparse Subspace Clustering: A unified optimization framework>. 
+Decsription: This code is partially  modified from Esan's SSC code. % Copyright @ Ehsan Elhamifar, 2012. Parially modied from chun-guang li's code for Structured Sparse Subspace Clustering: A unified optimization framework. 
 
 Try two demo files "Demo_for_Semisupervised.m" and "Demo_for_Unsupervised.m"  for semi-supervised FS and unsupervised FS, respectively.
 
