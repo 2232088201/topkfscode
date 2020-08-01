@@ -4,7 +4,7 @@ Decsription: This code is partially  modified from Esan's SSC code. % Copyright 
 
 Try two demo files "Demo_for_Semisupervised.m" and "Demo_for_Unsupervised.m"  for semi-supervised FS and unsupervised FS, respectively.
 
-If you use the codes for feature selection, please cite the following work. 
+If you use the codes for semi-supervised or unsupervised feature selection research, please cite the following work. 
 
 ``https://ieeexplore.ieee.org/document/9153944"
 
